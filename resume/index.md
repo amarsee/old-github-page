@@ -9,7 +9,7 @@ Andrew Marsee
 -------------------           ----------------------------
 * Nashville, TN
 * andrew.marsee@andrewmarsee.com
-* Twitter - @andrew_marsee
+* Twitter: @andrew_marsee
 
 -------------------          ----------------------------
 
@@ -17,11 +17,11 @@ Education
 ---------
 
 2015-2016
-:   **Master of Engineering, Mechanical Engineering**; University of Cincinnati
+:   **Master of Engineering, Mechanical Engineering**;  `University of Cincinnati`
   * GPA: 4.0
 
 2011-2015
-:   **BS, Mechanical Engineering**; Georgia Institute of Technology
+:   **BS, Mechanical Engineering**;  `Georgia Institute of Technology`
   * GPA: 3.23
 
 Experience
@@ -61,6 +61,7 @@ to constitute affordable housing
 with roughly a 40% reduction
 
 Effect of NBA Scheduling on Team Performance
+
 * Built an [interactive web app](https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/)
 to visualize how certain scheduling factors affect performance of teams
 Considered Rest, Time Zone, and whether the game was Home or Away
