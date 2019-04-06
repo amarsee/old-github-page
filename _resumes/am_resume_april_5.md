@@ -8,9 +8,9 @@ Andrew Marsee
 ============
 
 -------------------           ----------------------------
-:Nashville, TN 
-:andrew.marsee@andrewmarsee.com
-:Twitter: @andrew_marsee
+Nashville, TN:
+andrew.marsee@andrewmarsee.com:
+Twitter - @andrew_marsee
 
 -------------------          ----------------------------
 
