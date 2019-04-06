@@ -27,7 +27,7 @@ Education
 Experience
 ----------
 
-**Tennessee Department of Education Jan. 2019-Present**
+**Tennessee Department of Education** Nashville, TN `Jan. 2019-Present`
 
 Data Analyst in the Accountability division of the department. We are responsible
 for overseeing the performance of Tennessee's schools. We strive to provide valuable
@@ -44,7 +44,7 @@ survey question to gain insight into feedback provided by educators across the s
 * Coordinate the receipt of approximately 15 datasets from outside vendors and preparing
 reports with R Markdown to be released to the press
 
-**Nashville Software School Nashville, TN	August 2018-Present**
+**Nashville Software School** Nashville, TN	`August 2018-Present`
 
 9 month, intensive program designed to provide students with programming and analytical skills
 need to excel in a data science role:
@@ -67,7 +67,7 @@ to visualize how certain scheduling factors affect performance of teams
 Considered Rest, Time Zone, and whether the game was Home or Away
 
 
-**E-Technologies Group Cincinnati, OH	June 2017- August 2018**
+**E-Technologies Group** Cincinnati, OH	`June 2017- August 2018`
 
 Mecahnical Engineer. Designed and modeled safety solutions in SolidWorks for a variety of clients to
 improve manufacturing processes and bring equipment up to safety standards:
@@ -94,7 +94,7 @@ feedback from stakeholders to iterate through more designs
 
 * Collaborated with engineers, machine builders, and machinists throughout the machine design process
 
-**City Year Los Angeles, CA	August 2016-June 2017**
+**City Year** Los Angeles, CA	`August 2016-June 2017`
 
 Americorps Member, IT Coordinator, Service Ambassador:
 
