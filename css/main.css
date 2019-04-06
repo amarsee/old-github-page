@@ -1,6 +1,8 @@
 body {
     /*margin: 80px auto;*/
-    margin-left: 165px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 180px;
     width: 70%;
 }
 nav ul, footer ul {
