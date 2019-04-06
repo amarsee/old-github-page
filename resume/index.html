@@ -5,6 +5,4 @@ title: Resume
 
 <h1>{{ page.title }}</h1>
 
-    {% for resume in site.resumes %}
-	    <div><a href="{{ resume.url }}" title="{{ resume.title }}">{{ resume.title }}</a></div>
-	  {% endfor %}
+{% include_relative andrew_marsee_resume.md %}
