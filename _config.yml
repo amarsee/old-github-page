@@ -4,4 +4,17 @@ permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
 plugins:
+  - jekyll-archive
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  
+  
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+naver-site-verification  :
