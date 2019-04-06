@@ -21,7 +21,7 @@ Education
   * GPA: 4.0
 
 2011-2015
-:   **BS, Mechanical Engineering**;  `Georgia Institute of Technology`
+:   **Bachelor of Science, Mechanical Engineering**;  `Georgia Institute of Technology`
   * GPA: 3.23
 
 Experience
