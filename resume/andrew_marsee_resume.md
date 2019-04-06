@@ -1,3 +1,8 @@
+---
+layout: resume
+title: "Resume"
+date: 2019-04-05
+---
 
 Andrew Marsee
 ============
