@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Resume
+title: Andrew Marsee Resume
 ---
 
 Andrew Marsee
 ============
 
 -------------------           ----------------------------
-* Nashville, TN
-* andrew.marsee@andrewmarsee.com
+* Location: Nashville, TN
+* Email: andrew.marsee@andrewmarsee.com
 * Twitter: @andrew_marsee
 
 -------------------          ----------------------------
