@@ -3,6 +3,7 @@ body {
     margin-top: 100px;
     margin-right: 100px;
     margin-left: 180px;
+    padding: 10px 10px;
     width: 70%;
 }
 nav ul, footer ul {
