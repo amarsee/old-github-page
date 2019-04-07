@@ -6,13 +6,15 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 2px 20px;
+    padding: 12px 20px;
     margin-left: 200px;
+    
     list-style: none;
     font-weight: bold;
 }
 nav ul {
-    font-size: 20;
+    font-size: 22px;
+    float: right;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -41,6 +43,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    text-align: center;
 }
 
 ul{ 
