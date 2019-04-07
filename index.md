@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Andrew Marsee, Data Scientist
+sitemap: true
 ---
+
 # Welcome, I'm Andrew Marsee
 
 I'm a data scientist relatively new to the field.
