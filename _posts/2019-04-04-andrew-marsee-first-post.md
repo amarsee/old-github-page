@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrew Marsee's First Blog Post"
+title: "My First Blog Post"
 date: 2019-04-04
 ---
 ## Introduction
