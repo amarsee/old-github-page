@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Andrew Marsee Resume
+sitemap: true
 ---
 
 Andrew Marsee
