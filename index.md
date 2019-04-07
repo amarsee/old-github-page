@@ -13,7 +13,7 @@ In the meantime check out an application I made below and [my resume](https://an
 -------------------------------------------------
 
 
-# Effect of NBA Scheduling on Game Outcomes
+## Effect of NBA Scheduling on Game Outcomes
 
 Midcourse Project for Nashville Software School Data Science Bootcamp
 
