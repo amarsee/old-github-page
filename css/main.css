@@ -43,7 +43,7 @@ footer {
     font-size: .8em;
 }
 
-ul { 
+ul, li { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
