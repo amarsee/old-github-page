@@ -18,3 +18,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 naver-site-verification  :
+
+
+analytics:
+  		provider: "google-universal"
+  	google:
+ 	tracking_id: "UA-137786150-1"
