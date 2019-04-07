@@ -1,6 +1,11 @@
 name: Andrew Marsee, Data Scientist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+title                    : "Andrew Marsee Portfolio"
+title_separator          : "-"
+name                     : "Andrew Marsee"
+description              : "Showcasing the work of Andrew Marsee"
+url                      : https://andrewmarsee.com
 
 theme: jekyll-theme-minimal
 plugins:
