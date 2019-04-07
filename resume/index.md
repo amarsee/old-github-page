@@ -18,11 +18,11 @@ Education
 
 2015-2016
 :   **Master of Engineering, Mechanical Engineering**;  `University of Cincinnati`
-  * GPA: 4.0
+
 
 2011-2015
 :   **Bachelor of Science, Mechanical Engineering**;  `Georgia Institute of Technology`
-  * GPA: 3.23
+
 
 Experience
 ----------
