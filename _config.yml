@@ -24,3 +24,35 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id: "UA-137786150-1"
+
+# Site Author
+author:
+  name             : "Andrew Marsee"
+  avatar           : 
+  bio              : "Data Analyst"
+  location         : "Nashville"
+  email            :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : amarsee
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : andrew_marsee
+  lastfm           :
+  linkedin         : amarsee # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : andrew_marsee
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
