@@ -4,13 +4,13 @@ body {
     padding: 5px 15px;
     width: 70%;
 }
-nav {
+/*nav {
   overflow: hidden;
   background-color: #333;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */   
-}
+  position: fixed; 
+  top: 0; 
+  width: 100%;
+}*/
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 12px 20px;
