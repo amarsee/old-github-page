@@ -15,6 +15,7 @@ nav ul, footer ul {
 nav ul {
     font-size: 22px;
     float: right;
+    padding: 0px 0px 20px 0px; 
 }
 nav ul li, footer ul li {
     display: inline;
