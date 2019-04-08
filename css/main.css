@@ -4,6 +4,13 @@ body {
     padding: 5px 15px;
     width: 70%;
 }
+nav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */   
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 12px 20px;
@@ -24,6 +31,10 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+}
+nav a:hover {
+  background: #ddd;
+  color: black;
 }
 a:hover {
     text-decoration: underline;
