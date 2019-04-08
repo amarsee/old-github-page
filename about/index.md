@@ -6,7 +6,7 @@ sitemap: true
 
 # About Me
 
-<img src="images/about_me_image.jpg" width="645" height="550" title="Andrew Marsee Headshot" alt="Andrew Marsee Headshot">    
+<img src="images/about_me_image.jpg" width="517" height="440" title="Andrew Marsee Headshot" alt="Andrew Marsee Headshot">    
 
 I began my career as a mechanical engineer. I have both a Bachelor’s and Master’s degree in Mechanical Engineering, but while I was in school I discovered that the main thing I enjoyed was coding. I took the lead on any projects involving programming, usually robotics (specifically arduino). But I found that in industry, mechanical engineers are typically not the ones who do the coding. But I wanted to be involved in something more coding centric, specifically in the data science realm.
 
