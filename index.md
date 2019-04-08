@@ -21,7 +21,7 @@ Midcourse Project for Nashville Software School Data Science Bootcamp
 
 Interactive Shiny App for exploring how certain parameters affect team performance
 
-Shinyapps link: https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/
+Shinyapps link: [https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/](https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/)
 
 ## Goal
 
