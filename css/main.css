@@ -32,10 +32,7 @@ a {
     text-decoration: none;
     color: #999;
 }
-nav a:hover {
-  background: #ddd;
-  color: black;
-}
+
 a:hover {
     text-decoration: underline;
 }
@@ -100,7 +97,7 @@ ul.posts li {
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #ccffff
+  color: #00141a;
 }
 
 /* Style page content */
