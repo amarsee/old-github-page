@@ -68,7 +68,8 @@ ul.posts li {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #111; /* Black */
+  /* background-color: #111;  Black */
+  background-color: #ffffff; /* white */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 100px;
    
@@ -82,7 +83,7 @@ ul.posts li {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #f2f2f2;
+  color: #008fb3;
   display: block;
 }
 
