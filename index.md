@@ -18,7 +18,7 @@ In the meantime check out an application I made below and [my resume](https://an
     <iframe id="nbaShinyDashboard"
         title="NBA Stats Dashboard"
         width="500"
-        height="500"
+        height="1000"
         src="https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/">
     </iframe>
 </div>
