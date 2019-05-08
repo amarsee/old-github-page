@@ -50,6 +50,13 @@ reports with R Markdown to be released to the press
 9 month, intensive program designed to provide students with programming and analytical skills
 need to excel in a data science role:
 
+The General Project:
+* Utilized NLP to assist in predicting the Party at Fault in auto accidents using insurance claim data
+* Classified claims as `Insured at Fault`, `Other Party at Fault`, `Comparative Negligence`, and `No Fault`
+* Engineered features containing word counts for relevant words in the claims and also length of the claims
+* Built a Random Forest Classification model which achieved 83% accuracy
+* Precision of 0.83 or higher for each class and recall ranging from 0.46 for the `No Fault` class to 0.96 for the `Insured at Fault` class
+
 Nashville Metro Council Project:
 * Sought to answer how the availability of affordable housing for those people earning less
 than the area median income has changed since 2009
