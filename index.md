@@ -13,7 +13,7 @@ I'll be adding to this website over the coming days and months
 In the meantime check out an application I made below and [my resume](https://andrewmarsee.com/resume/).
 
 -------------------------------------------------
-
+<!--
 <div class="iframe-container">
     <iframe id="nbaShinyDashboard"
         title="NBA Stats Dashboard"
@@ -22,6 +22,7 @@ In the meantime check out an application I made below and [my resume](https://an
         src="https://amarsee.shinyapps.io/nba-stats-shiny-dashboard/">
     </iframe>
 </div>
+-->
 
 
 ## Effect of NBA Scheduling on Game Outcomes
